@@ -1,2 +1,2 @@
-# P-gina_Inicial_do_Instagram
-Recriando a Página inicial do Insta (atividade realizada no bootcamp HTML Web Developer da DIO)
+# Instagram Initial Page
+A re-creation of instagram initial page by a initial dev haha! 
